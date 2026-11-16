@@ -1,4 +1,4 @@
-# SteamLaunch for Linux
+# SteamLaunch for Linux (vibecoded for my own use lol)
 
 A small desktop application for launching a custom Windows executable **in the
 Steam launch context of a game you own and have installed**. Keeps Steam's Proton
