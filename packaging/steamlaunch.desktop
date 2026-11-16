@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=SteamLaunch
+GenericName=Steam Proton launcher
+Comment=Launch a custom Windows program through Steam and Proton
+Exec=SteamLaunch
+Icon=steamlaunch
+Terminal=false
+Categories=Game;
+StartupWMClass=SteamLaunch
